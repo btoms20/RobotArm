@@ -9,7 +9,6 @@ If you have any questions or comments, feel free to open up a discussion! 🙋
 ## 🦾 Structure
 - [AnninRobotics AR4 Design & Kit](https://www.anninrobotics.com)
 - 6 axis robot arm, aluminum core with 3D printed cosmetic panels
-- 2.5kg payload
    
    
 ## 🧠 Logics   
