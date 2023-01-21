@@ -12,7 +12,7 @@ If you have any questions or comments, feel free to open up a discussion! 🙋
    
    
 ## 🧠 Logics   
-- Duet3 6 XD running RepRapFirmware with custom IK code    
+- Duet 3 6XD running RepRapFirmware with custom IK code    
 - DWC interface with http gcode server exposed
    
    
