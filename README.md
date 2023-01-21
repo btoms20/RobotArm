@@ -4,7 +4,7 @@ Hi! 👋
  
 This repo is home to all the notes, thoughts and future plans I have for my build of the amazing [AnninRobotics AR4 robot arm](https://www.anninrobotics.com). Below, you'll find some basic info covering some of the physical and electrical attributes of the arm and the software stack used to control it; There's also a TODO list of features I'm hoping to add in the near future.  
 
-If you have any questions or comments, feel free to open up a discussion! 🙋
+If you have any questions or comments, feel free to post on the [discussions board](https://github.com/btoms20/RobotArm/discussions)! 🙋
    
 ## 🦾 Structure
 - [AnninRobotics AR4 Design & Kit](https://www.anninrobotics.com)
