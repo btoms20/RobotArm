@@ -100,3 +100,9 @@ M208 X70 Y35 Z40 U55 V25 W35 S0
 M208 X0 Y0 Z0 U0 V0 W0 S1 
 ```
    
+## 📸 Media   
+![RobotArm](https://user-images.githubusercontent.com/32753167/213881860-788fda76-0838-43bd-9a7b-2eec156446b1.jpeg)
+
+| Homing to Ready | Block De-Stacking |
+| :-------------: |:-------------:|
+| ![Homing](https://user-images.githubusercontent.com/32753167/213882039-ebf8dee0-3288-44c1-89bc-e9ffb9ed38bb.mp4) | ![Block Stack](https://user-images.githubusercontent.com/32753167/213882056-57d40fd9-df9f-4b78-9aec-2173c790e646.mp4) |
