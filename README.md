@@ -26,11 +26,11 @@ If you have any questions or comments, feel free to post on the [discussions boa
 - [x] Software Basics (homing files, homing sequence)
 - [x] Open loop control (all 6 axis working)
 - [x] End Effector (servo gripper installed, configured and running)
-
-- [ ] Change DWC from mm to deg (our config is doing everything in mm, it would make more sense if we started using deg instead)   
+- [ ] Change DWC from mm to deg (our config is doing everything in mm, it would make more sense if we started using degrees instead)   
 - [ ] Get IK set up (3.5 beta)    
 - [ ] Get robo viewer plugin set up on DWC   
 - [ ] Install Panel Due on front of junction box 
+- [ ] Enable Closed Loop Control
    
    
 ## 🎛️ Duet DWC Config File   
