@@ -26,7 +26,7 @@ If you have any questions or comments, feel free to post on the [discussions boa
 - [x] Software Basics (homing files, homing sequence)
 - [x] Open loop control (all 6 axis working)
 - [x] End Effector (servo gripper installed, configured and running)
-- [ ] Upgrade J2 to new [higher precision gearbox](https://www.anninrobotics.com/post/j2-gearbox-update)
+- [x] [Upgrade J2 to new](https://github.com/btoms20/RobotArm/discussions/2) [higher precision gearbox](https://www.anninrobotics.com/post/j2-gearbox-update)
 - [ ] Change DWC from mm to deg (our config is doing everything in mm, it would make more sense if we started using degrees instead)   
 - [ ] Get IK set up (3.5 beta)    
 - [ ] Get robo viewer plugin set up on DWC   
