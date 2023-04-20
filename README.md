@@ -26,10 +26,10 @@ If you have any questions or comments, feel free to post on the [discussions boa
 - [x] Software Basics (homing files, homing sequence)
 - [x] Open loop control (all 6 axis working)
 - [x] End Effector (servo gripper installed, configured and running)
-- [x] [Upgrade J2 to new](https://github.com/btoms20/RobotArm/discussions/2) [higher precision gearbox](https://www.anninrobotics.com/post/j2-gearbox-update)
+- [x] Upgrade J2 to new [higher precision gearbox](https://www.anninrobotics.com/post/j2-gearbox-update) (https://github.com/btoms20/RobotArm/discussions/2) 
 - [x] Get robo viewer plugin set up on DWC   
 - [x] Change DWC from mm to deg (our config is doing everything in mm, it would make more sense if we started using degrees instead)   
-- [x] Enable Closed Loop Control
+- [x] Enable Closed Loop Control (https://github.com/btoms20/RobotArm/discussions/3)
 - [ ] Get IK set up (3.5 beta)    
 - [ ] Install Panel Due on front of junction box 
 
