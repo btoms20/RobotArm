@@ -1,15 +1,14 @@
-# AR4 Robot Arm   
+# AnninRobotics v4 Robot Arm   
    
 Hi! 👋
  
-This repo is home to all the notes, thoughts and future plans I have for my build of the amazing [AnninRobotics AR4 robot arm](https://www.anninrobotics.com). Below, you'll find some basic info covering some of the physical and electrical attributes of the arm and the software stack used to control it; There's also a TODO list of features I'm hoping to add in the near future.  
+This repo is home to all the notes, thoughts and future plans I have for my build of the amazing [AnninRobotics v4 robot arm](https://www.anninrobotics.com). Below, you'll find some basic info covering some of the physical and electrical attributes of the arm and the software stack used to control it; There's also a TODO list of features I'm hoping to add in the near future.  
 
 If you have any questions or comments, feel free to post on the [discussions board](https://github.com/btoms20/RobotArm/discussions)! 🙋
    
 ## 🦾 Structure
-- [AnninRobotics AR4 Design & Kit](https://www.anninrobotics.com)
+- [AnninRobotics v4 Design & Kit](https://www.anninrobotics.com)
 - 6 axis robot arm, aluminum core with 3D printed cosmetic panels
-   
    
 ## 🧠 Logics   
 - Duet 3 6XD running RepRapFirmware with custom IK code    
