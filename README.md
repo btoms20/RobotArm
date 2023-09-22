@@ -31,7 +31,7 @@ If you have any questions or comments, feel free to post on the [discussions boa
 - [x] Enable Closed Loop Control (https://github.com/btoms20/RobotArm/discussions/3)
 - [ ] [Joint Encoders](https://github.com/ongdexter/ar3_hardware_mods) as well
 - [x] Get IK set up    
-- [ ] Software based backlash compensation (3.5)
+- [x] Software based backlash compensation (3.5 - M425)
 - [ ] Use accelerometer to fine tune ee pose
 - [ ] Install Panel Due on front of junction box 
 
