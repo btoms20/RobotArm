@@ -30,7 +30,9 @@ If you have any questions or comments, feel free to post on the [discussions boa
 - [x] Change DWC from mm to deg (our config is doing everything in mm, it would make more sense if we started using degrees instead)   
 - [x] Enable Closed Loop Control (https://github.com/btoms20/RobotArm/discussions/3)
 - [ ] [Joint Encoders](https://github.com/ongdexter/ar3_hardware_mods) as well
-- [ ] Get IK set up (3.5 beta)    
+- [x] Get IK set up    
+- [ ] Software based backlash compensation (3.5)
+- [ ] Use accelerometer to fine tune ee pose
 - [ ] Install Panel Due on front of junction box 
 
    
